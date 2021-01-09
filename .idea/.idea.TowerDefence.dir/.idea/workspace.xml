@@ -10,9 +10,10 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Script/Test.cs" />
-      <option value="$PROJECT_DIR$/Entities/Enemy.cs" />
-      <option value="$PROJECT_DIR$/Entities/Turret.cs" />
       <option value="$PROJECT_DIR$/Script/MouseFollowingEntity.cs" />
+      <option value="$PROJECT_DIR$/Entities/Enemy.cs" />
+      <option value="$PROJECT_DIR$/Entities/Bullets/BulletBase.cs" />
+      <option value="$PROJECT_DIR$/Entities/Turret.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1mpN5XYmIWoO7Gqa4ADoDs1t5wt" />
