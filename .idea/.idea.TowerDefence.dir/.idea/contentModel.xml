@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\GodotProjects\TowerDefence" t="IncludeRecursive">
+      <e p=".mono" t="Include">
+        <e p="temp" t="Include">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="TowerDefence.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Script" t="Include">
+        <e p="Test.cs" t="Include" />
+      </e>
+      <e p="TowerDefence.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\MetalCat\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\MetalCat\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+  </component>
+</project>

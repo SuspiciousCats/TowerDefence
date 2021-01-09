@@ -1,0 +1,8 @@
+C:\GodotProjects\TowerDefence\.mono\temp\bin\Debug\TowerDefence.dll
+C:\GodotProjects\TowerDefence\.mono\temp\bin\Debug\TowerDefence.pdb
+C:\GodotProjects\TowerDefence\.mono\temp\obj\Debug\TowerDefence.csprojAssemblyReference.cache
+C:\GodotProjects\TowerDefence\.mono\temp\obj\Debug\TowerDefence.AssemblyInfoInputs.cache
+C:\GodotProjects\TowerDefence\.mono\temp\obj\Debug\TowerDefence.AssemblyInfo.cs
+C:\GodotProjects\TowerDefence\.mono\temp\obj\Debug\TowerDefence.csproj.CoreCompileInputs.cache
+C:\GodotProjects\TowerDefence\.mono\temp\obj\Debug\TowerDefence.dll
+C:\GodotProjects\TowerDefence\.mono\temp\obj\Debug\TowerDefence.pdb
