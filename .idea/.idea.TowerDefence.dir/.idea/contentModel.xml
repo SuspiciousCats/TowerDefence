@@ -12,8 +12,13 @@
           </e>
         </e>
       </e>
+      <e p="Entities" t="Include">
+        <e p="Enemy.cs" t="Include" />
+        <e p="Turret.cs" t="Include" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Script" t="Include">
+        <e p="MouseFollowingEntity.cs" t="Include" />
         <e p="Test.cs" t="Include" />
       </e>
       <e p="TowerDefence.csproj" t="IncludeRecursive" />
